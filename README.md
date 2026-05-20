@@ -26,6 +26,7 @@ ip netns del pssid_wlan0
 ```shell
 docker build -t pssid-daemon .
 ```
+- The docker image can also be sourced from https://hub.docker.com/repository/docker/umnetworking/pssid-docker
 
 ### Run
 - Here we are binding the actual host `/var/log/pssid.log` file so the container can remain immutable
