@@ -1,4 +1,5 @@
 # pssid-docker
+- If an ansible automated install is preferred, see https://github.com/UMNET-perfSONAR/pssid-containerized/
 ### Install docker
 ```shell
 curl -fsSL https://get.docker.com -o get-docker.sh
